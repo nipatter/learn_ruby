@@ -1,2 +1,6 @@
 .idea
 +.DS_Store*
+
+02_calculator/gemfile
+04_pig_latin/gemfile
+vendor/
